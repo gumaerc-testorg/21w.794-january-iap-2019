@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6256005c-82cf-dfd9-5d8c-bd6ec45d3ed7
 resourcetype: Document
 title: 'Lecture 4: Generating Texts'
 uid: a55a0e94-c987-d420-299b-bd84d425b824

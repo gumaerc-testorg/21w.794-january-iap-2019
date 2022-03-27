@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6256005c-82cf-dfd9-5d8c-bd6ec45d3ed7
 resourcetype: Document
 title: 'Lecture 2: Reasoning With Sources'
 uid: 16c1c214-0a32-acb0-b229-247504dc5720

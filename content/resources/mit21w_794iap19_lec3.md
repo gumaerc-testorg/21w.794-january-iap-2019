@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6256005c-82cf-dfd9-5d8c-bd6ec45d3ed7
 resourcetype: Document
 title: 'Lecture 3: Source Synthesis: Revealing Patterns and Trends'
 uid: 84518019-10d7-7afa-2277-2a7b6928f039
