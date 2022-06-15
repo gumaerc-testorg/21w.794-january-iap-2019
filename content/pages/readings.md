@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains required and recommended readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ uid: 38c56311-5e1d-166c-75cd-3fe68a6b3cef
 Required Readings 
 ------------------
 
-The Literature Review assignment (see the [Assignments]({{< baseurl >}}/pages/assignments) section) is based on the following five articles:
+The Literature Review assignment (see the {{% resource_link ff4de010-3d5f-6bb8-2565-7cc8b9c2808c "Assignments" %}} section) is based on the following five articles:
 
 Donnelly, Jeffrey P., and Jonathan D. Woodruff. "[Intense Hurricane Activity over the Past 5,000 years Controlled by El Niño and the West African Monsoon](https://www.nature.com/articles/nature05834)." _Nature_ 447 (2007): 465–68.
 
