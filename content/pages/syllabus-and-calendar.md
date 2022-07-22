@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus and Calendar
 uid: 686d8e30-0e0b-7a91-a928-e0a43300cdde
 ---
@@ -27,7 +30,7 @@ Assignments
 *   Literature review of recent research
 *   Oral presentation of a genre analysis
 
-For more detail, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more detail, see the {{% resource_link ff4de010-3d5f-6bb8-2565-7cc8b9c2808c "Assignments" %}} section.
 
 Additional Course Requirements
 ------------------------------

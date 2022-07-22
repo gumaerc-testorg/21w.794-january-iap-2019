@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the lecture notes for the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 6256005c-82cf-dfd9-5d8c-bd6ec45d3ed7
 ---
@@ -30,7 +34,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Genre, Rhetorical Situations, Abstracts, and Stasis Theory (PDF)]({{< baseurl >}}/resources/mit21w_794iap19_lec1)
+{{% resource_link 9edce791-8b4d-cd3e-e4d7-564b8c49437c "Genre, Rhetorical Situations, Abstracts, and Stasis Theory (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -39,7 +43,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Reasoning with Sources: Evaluating, Managing, Integrating, and Citing the Work of Others (PDF - 1.5MB)]({{< baseurl >}}/resources/mit21w_794iap19_lec2)
+{{% resource_link 16c1c214-0a32-acb0-b229-247504dc5720 "Reasoning with Sources: Evaluating, Managing, Integrating, and Citing the Work of Others (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +58,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Source Synthesis: Revealing Patterns and Trends (PDF)]({{< baseurl >}}/resources/mit21w_794iap19_lec3)
+{{% resource_link 84518019-10d7-7afa-2277-2a7b6928f039 "Source Synthesis: Revealing Patterns and Trends (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +67,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Generating Texts: How Understanding Genre and Generic Language Patterns Helps Us Compose (PDF)]({{< baseurl >}}/resources/mit21w_794iap19_lec4)
+{{% resource_link a55a0e94-c987-d420-299b-bd84d425b824 "Generating Texts: How Understanding Genre and Generic Language Patterns Helps Us Compose (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Revision (PDF)]({{< baseurl >}}/resources/mit21w_794iap19_lec5)
+{{% resource_link 607e0d51-69c8-1edb-a06e-1fb0c8e42b3e "Revision (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
