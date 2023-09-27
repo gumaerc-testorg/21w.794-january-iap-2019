@@ -33,7 +33,9 @@
   },
   "course_title": "Graduate Technical Writing Workshop",
   "course_description": "This course is designed to improve the student's ability to communicate technical information. It covers the basics of working with sources, including summarizing and paraphrasing, synthesizing source materials, citing, quoting, and avoiding plagiarism. It also covers how to write an abstract and a literature review. In addition, we will cover communication concepts, tools, and strategies that can help you understand how engineering texts work, and how you can make your texts work more effectively.\n\nThis course is limited to MIT graduate engineering students based on results of the [Graduate Writing Exam](https://cmsw.mit.edu/graduate-writing-exam/).\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.794",
   "course_image_thumbnail": {
@@ -44,6 +46,7 @@
     "Lecture Notes",
     "Written Assignments"
   ],
-  "site_uid": "573945d6-8098-426e-a334-5758eff8ddb0",
+  "site_uid": "2617b91a-cddd-4f6a-882a-d6104f313c0f",
+  "site_short_id": "21w.794-january-iap-2019",
   "title": "Course Metadata"
 }
