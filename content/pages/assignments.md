@@ -25,11 +25,11 @@ Your task is to write a literature review that synthesizes recent research on th
 
 _Readings_
 
-1.  Donnelly, Jeffrey P., and Jonathan D. Woodruff. "[Intense Hurricane Activity over the Past 5,000 Years Controlled by El Niño and the West African Monsoon](https://www.nature.com/articles/nature05834)." _Nature_ 447 (2007): 465–68.
-2.  Elsner, James B., James P. Kossin, and Thomas H. Jagger. "[The Increasing Intensity of the Strongest Tropical Cyclones](https://www.nature.com/articles/nature07234)." _Nature_ 455 (2008): 92–95.
-3.  Emanuel, Kerry. "[Increasing Destructiveness of Tropical Cyclones over the Past 30 Years](https://www.nature.com/articles/nature03906)." _Nature_ 436 (2005): 686–88.
-4.  O'Gorman, Paul A. "[Understanding the Varied Response of the Extratropical Storm Tracks to Climate Change](https://www.pnas.org/content/107/45/19176)." _PNAS_ 107, no. 45 (2010): 19176–80.
-5.  Patricola, Christina M., and Michael F. Wehner. "[Anthropogenic Influences on Major Tropical Cyclone Events](https://www.nature.com/articles/s41586-018-0673-2)." _Nature_ 563 (2018): 339–46.
+1.  Donnelly, Jeffrey P., and Jonathan D. Woodruff. "{{% resource_link "980aa048-f2bc-4298-b614-7f8a5f823981" "Intense Hurricane Activity over the Past 5,000 Years Controlled by El Niño and the West African Monsoon" %}}." _Nature_ 447 (2007): 465–68.
+2.  Elsner, James B., James P. Kossin, and Thomas H. Jagger. "{{% resource_link "f8d031b3-eda9-47e0-948e-d80ec485b166" "The Increasing Intensity of the Strongest Tropical Cyclones" %}}." _Nature_ 455 (2008): 92–95.
+3.  Emanuel, Kerry. "{{% resource_link "f89221a3-84ee-4f89-be76-8cf343a0ab3b" "Increasing Destructiveness of Tropical Cyclones over the Past 30 Years" %}}." _Nature_ 436 (2005): 686–88.
+4.  O'Gorman, Paul A. "{{% resource_link "2b041f85-84c7-41f1-b814-6329e37d6c4f" "Understanding the Varied Response of the Extratropical Storm Tracks to Climate Change" %}}." _PNAS_ 107, no. 45 (2010): 19176–80.
+5.  Patricola, Christina M., and Michael F. Wehner. "{{% resource_link "f0af79cd-3c5f-4697-8405-b58a9c40b81a" "Anthropogenic Influences on Major Tropical Cyclone Events" %}}." _Nature_ 563 (2018): 339–46.
 
 Peer Review Assignment
 ----------------------
